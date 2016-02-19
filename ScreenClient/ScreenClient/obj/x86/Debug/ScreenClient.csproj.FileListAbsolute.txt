@@ -1,0 +1,16 @@
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ChatClient\obj\x86\Debug\ScreenClient.csprojResolveAssemblyReference.cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ChatClient\obj\x86\Debug\ScreenClient.ScreenClient.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ChatClient\obj\x86\Debug\ScreenClient.Properties.Resources.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ChatClient\obj\x86\Debug\ScreenClient.csproj.GenerateResource.Cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ScreenClient\bin\Debug\ScreenClient.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ScreenClient\bin\Debug\ScreenClient.pdb
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ScreenClient\obj\x86\Debug\ScreenClient.csprojResolveAssemblyReference.cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ScreenClient\obj\x86\Debug\ScreenClient.ScreenClient.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ScreenClient\obj\x86\Debug\ScreenClient.Properties.Resources.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ScreenClient\obj\x86\Debug\ScreenClient.csproj.GenerateResource.Cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ScreenClient\obj\x86\Debug\ScreenClient.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ScreenClient\ScreenClient\obj\x86\Debug\ScreenClient.pdb

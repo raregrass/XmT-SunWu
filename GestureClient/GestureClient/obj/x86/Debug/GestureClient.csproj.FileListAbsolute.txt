@@ -1,0 +1,16 @@
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\ChatClient\obj\x86\Debug\GestureClient.csprojResolveAssemblyReference.cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\ChatClient\obj\x86\Debug\GestureClient.csproj.GenerateResource.Cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\ChatClient\obj\x86\Debug\GestureClient.GestureClient.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\ChatClient\obj\x86\Debug\GestureClient.Properties.Resources.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\GestureClient\bin\Debug\GestureClient.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\GestureClient\bin\Debug\GestureClient.pdb
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\GestureClient\obj\x86\Debug\GestureClient.csprojResolveAssemblyReference.cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\GestureClient\obj\x86\Debug\GestureClient.GestureClient.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\GestureClient\obj\x86\Debug\GestureClient.Properties.Resources.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\GestureClient\obj\x86\Debug\GestureClient.csproj.GenerateResource.Cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\GestureClient\obj\x86\Debug\GestureClient.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\GestureClient\GestureClient\obj\x86\Debug\GestureClient.pdb

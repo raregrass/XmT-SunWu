@@ -1,0 +1,8 @@
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ControlServer\ControlServer\obj\x86\Debug\ControlServer.ControlServer.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ControlServer\ControlServer\obj\x86\Debug\ControlServer.csproj.GenerateResource.Cache
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ControlServer\ControlServer\bin\Debug\ControlServer.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ControlServer\ControlServer\bin\Debug\ControlServer.pdb
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ControlServer\ControlServer\obj\x86\Debug\ControlServer.Properties.Resources.resources
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ControlServer\ControlServer\obj\x86\Debug\ControlServer.exe
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ControlServer\ControlServer\obj\x86\Debug\ControlServer.pdb
+C:\Users\RareGrass\Documents\Visual Studio 2012\Projects\ControlServer\ControlServer\obj\x86\Debug\ControlServer.csprojResolveAssemblyReference.cache
